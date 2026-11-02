@@ -1,4 +1,4 @@
-# Fondos de Cursor Cloud Agents
+# SpaceXSI Cloud Backgrounds
 
 Copias personales de los fondos incluidos en una máquina virtual de Cursor Cloud Agents.
 
